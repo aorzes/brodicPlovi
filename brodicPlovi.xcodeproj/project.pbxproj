@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EC4DA82B1CA8403800CB5351 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82A1CA8403800CB5351 /* main.m */; };
+		EC4DA82E1CA8403800CB5351 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82D1CA8403800CB5351 /* AppDelegate.m */; };
+		EC4DA8311CA8403800CB5351 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA8301CA8403800CB5351 /* ViewController.m */; };
+		EC4DA8341CA8403800CB5351 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8321CA8403800CB5351 /* Main.storyboard */; };
+		EC4DA8361CA8403800CB5351 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8351CA8403800CB5351 /* Assets.xcassets */; };
+		EC4DA8391CA8403800CB5351 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8371CA8403800CB5351 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EC4DA8261CA8403800CB5351 /* brodicPlovi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = brodicPlovi.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC4DA82A1CA8403800CB5351 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EC4DA82C1CA8403800CB5351 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EC4DA82D1CA8403800CB5351 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EC4DA82F1CA8403800CB5351 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EC4DA8301CA8403800CB5351 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EC4DA8331CA8403800CB5351 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EC4DA8351CA8403800CB5351 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EC4DA8381CA8403800CB5351 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EC4DA83A1CA8403800CB5351 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EC4DA8231CA8403800CB5351 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EC4DA81D1CA8403800CB5351 = {
+			isa = PBXGroup;
+			children = (
+				EC4DA8281CA8403800CB5351 /* brodicPlovi */,
+				EC4DA8271CA8403800CB5351 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EC4DA8271CA8403800CB5351 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EC4DA8261CA8403800CB5351 /* brodicPlovi.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EC4DA8281CA8403800CB5351 /* brodicPlovi */ = {
+			isa = PBXGroup;
+			children = (
+				EC4DA82C1CA8403800CB5351 /* AppDelegate.h */,
+				EC4DA82D1CA8403800CB5351 /* AppDelegate.m */,
+				EC4DA82F1CA8403800CB5351 /* ViewController.h */,
+				EC4DA8301CA8403800CB5351 /* ViewController.m */,
+				EC4DA8321CA8403800CB5351 /* Main.storyboard */,
+				EC4DA8351CA8403800CB5351 /* Assets.xcassets */,
+				EC4DA8371CA8403800CB5351 /* LaunchScreen.storyboard */,
+				EC4DA83A1CA8403800CB5351 /* Info.plist */,
+				EC4DA8291CA8403800CB5351 /* Supporting Files */,
+			);
+			path = brodicPlovi;
+			sourceTree = "<group>";
+		};
+		EC4DA8291CA8403800CB5351 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EC4DA82A1CA8403800CB5351 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EC4DA8251CA8403800CB5351 /* brodicPlovi */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EC4DA83D1CA8403800CB5351 /* Build configuration list for PBXNativeTarget "brodicPlovi" */;
+			buildPhases = (
+				EC4DA8221CA8403800CB5351 /* Sources */,
+				EC4DA8231CA8403800CB5351 /* Frameworks */,
+				EC4DA8241CA8403800CB5351 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = brodicPlovi;
+			productName = brodicPlovi;
+			productReference = EC4DA8261CA8403800CB5351 /* brodicPlovi.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EC4DA81E1CA8403800CB5351 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Anton Orzes";
+				TargetAttributes = {
+					EC4DA8251CA8403800CB5351 = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = EC4DA8211CA8403800CB5351 /* Build configuration list for PBXProject "brodicPlovi" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EC4DA81D1CA8403800CB5351;
+			productRefGroup = EC4DA8271CA8403800CB5351 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EC4DA8251CA8403800CB5351 /* brodicPlovi */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EC4DA8241CA8403800CB5351 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4DA8391CA8403800CB5351 /* LaunchScreen.storyboard in Resources */,
+				EC4DA8361CA8403800CB5351 /* Assets.xcassets in Resources */,
+				EC4DA8341CA8403800CB5351 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EC4DA8221CA8403800CB5351 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EC4DA8311CA8403800CB5351 /* ViewController.m in Sources */,
+				EC4DA82E1CA8403800CB5351 /* AppDelegate.m in Sources */,
+				EC4DA82B1CA8403800CB5351 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EC4DA8321CA8403800CB5351 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4DA8331CA8403800CB5351 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EC4DA8371CA8403800CB5351 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EC4DA8381CA8403800CB5351 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EC4DA83B1CA8403800CB5351 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EC4DA83C1CA8403800CB5351 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EC4DA83E1CA8403800CB5351 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = brodicPlovi/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = orzes.brodicPlovi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		EC4DA83F1CA8403800CB5351 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = brodicPlovi/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = orzes.brodicPlovi;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EC4DA8211CA8403800CB5351 /* Build configuration list for PBXProject "brodicPlovi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4DA83B1CA8403800CB5351 /* Debug */,
+				EC4DA83C1CA8403800CB5351 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EC4DA83D1CA8403800CB5351 /* Build configuration list for PBXNativeTarget "brodicPlovi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EC4DA83E1CA8403800CB5351 /* Debug */,
+				EC4DA83F1CA8403800CB5351 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EC4DA81E1CA8403800CB5351 /* Project object */;
+}
