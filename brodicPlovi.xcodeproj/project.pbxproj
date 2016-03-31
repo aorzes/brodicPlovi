@@ -7,15 +7,78 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC132B851CA90A9800659BF2 /* brododozgo.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B841CA90A9800659BF2 /* brododozgo.png */; };
+		EC132B871CA90C9100659BF2 /* bomba.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B861CA90C9100659BF2 /* bomba.png */; };
+		EC132B891CA90D4B00659BF2 /* kazaljka.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B881CA90D4B00659BF2 /* kazaljka.png */; };
+		EC132B8B1CA91FBD00659BF2 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B8A1CA91FBD00659BF2 /* spark.png */; };
+		EC132B961CA9663000659BF2 /* otok1.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B901CA9663000659BF2 /* otok1.png */; };
+		EC132B971CA9663000659BF2 /* otok2.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B911CA9663000659BF2 /* otok2.png */; };
+		EC132B981CA9663000659BF2 /* otok3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B921CA9663000659BF2 /* otok3.png */; };
+		EC132B991CA9663000659BF2 /* otok4.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B931CA9663000659BF2 /* otok4.png */; };
+		EC132B9A1CA9663000659BF2 /* otok5.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B941CA9663000659BF2 /* otok5.png */; };
+		EC132B9B1CA9663000659BF2 /* otok6.png in Resources */ = {isa = PBXBuildFile; fileRef = EC132B951CA9663000659BF2 /* otok6.png */; };
+		EC132BC31CA9BEE600659BF2 /* zPada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EC132BC21CA9BEE600659BF2 /* zPada.mp3 */; };
+		EC132BC51CA9BF0300659BF2 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC132BC41CA9BF0300659BF2 /* AVFoundation.framework */; };
+		EC1A372C1CAD64A700E93328 /* instrumentt21.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37261CAD64A700E93328 /* instrumentt21.png */; };
+		EC1A372D1CAD64A700E93328 /* instrumentt20.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37271CAD64A700E93328 /* instrumentt20.png */; };
+		EC1A372E1CAD64A700E93328 /* instrumentt19.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37281CAD64A700E93328 /* instrumentt19.png */; };
+		EC1A372F1CAD64A700E93328 /* instrumentt18.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37291CAD64A700E93328 /* instrumentt18.png */; };
+		EC1A37301CAD64A700E93328 /* instrumentt17.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A372A1CAD64A700E93328 /* instrumentt17.png */; };
+		EC1A37311CAD64A700E93328 /* instrumentt16.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A372B1CAD64A700E93328 /* instrumentt16.png */; };
 		EC4DA82B1CA8403800CB5351 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82A1CA8403800CB5351 /* main.m */; };
 		EC4DA82E1CA8403800CB5351 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82D1CA8403800CB5351 /* AppDelegate.m */; };
 		EC4DA8311CA8403800CB5351 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA8301CA8403800CB5351 /* ViewController.m */; };
 		EC4DA8341CA8403800CB5351 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8321CA8403800CB5351 /* Main.storyboard */; };
 		EC4DA8361CA8403800CB5351 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8351CA8403800CB5351 /* Assets.xcassets */; };
 		EC4DA8391CA8403800CB5351 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8371CA8403800CB5351 /* LaunchScreen.storyboard */; };
+		EC4DA8421CA8445700CB5351 /* brodicView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA8411CA8445700CB5351 /* brodicView.m */; };
+		EC4DA8441CA84BD600CB5351 /* MyScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8431CA84BD600CB5351 /* MyScene.sks */; };
+		EC4DA8471CA84F2A00CB5351 /* scena.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA8461CA84F2A00CB5351 /* scena.m */; };
+		EC4DA84B1CA853FD00CB5351 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC4DA84A1CA853FD00CB5351 /* SpriteKit.framework */; };
+		EC4DA8571CA894F200CB5351 /* crvenaTipka1.png in Resources */ = {isa = PBXBuildFile; fileRef = EC4DA8561CA894F200CB5351 /* crvenaTipka1.png */; };
+		EC93FEC61CAC1E030011ED4E /* kolekcijas.m in Sources */ = {isa = PBXBuildFile; fileRef = EC93FEC51CAC1E030011ED4E /* kolekcijas.m */; };
+		EC93FEC81CAC2DD90011ED4E /* sivaPodloga.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEC71CAC2DD90011ED4E /* sivaPodloga.png */; };
+		EC93FECE1CAC34D10011ED4E /* mjestaInstrumenta5.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEC91CAC34D10011ED4E /* mjestaInstrumenta5.png */; };
+		EC93FECF1CAC34D10011ED4E /* mjestaInstrumenta4.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FECA1CAC34D10011ED4E /* mjestaInstrumenta4.png */; };
+		EC93FED01CAC34D10011ED4E /* mjestaInstrumenta3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FECB1CAC34D10011ED4E /* mjestaInstrumenta3.png */; };
+		EC93FED11CAC34D10011ED4E /* mjestaInstrumenta2.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FECC1CAC34D10011ED4E /* mjestaInstrumenta2.png */; };
+		EC93FED21CAC34D10011ED4E /* mjestaInstrumenta1.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FECD1CAC34D10011ED4E /* mjestaInstrumenta1.png */; };
+		EC93FEDF1CAC590F0011ED4E /* instrumentt1.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED31CAC590F0011ED4E /* instrumentt1.png */; };
+		EC93FEE01CAC590F0011ED4E /* instrumentt2.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED41CAC590F0011ED4E /* instrumentt2.png */; };
+		EC93FEE11CAC590F0011ED4E /* instrumentt3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED51CAC590F0011ED4E /* instrumentt3.png */; };
+		EC93FEE21CAC590F0011ED4E /* instrumentt4.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED61CAC590F0011ED4E /* instrumentt4.png */; };
+		EC93FEE31CAC590F0011ED4E /* instrumentt5.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED71CAC590F0011ED4E /* instrumentt5.png */; };
+		EC93FEE41CAC590F0011ED4E /* instrumentt6.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED81CAC590F0011ED4E /* instrumentt6.png */; };
+		EC93FEE51CAC590F0011ED4E /* instrumentt7.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FED91CAC590F0011ED4E /* instrumentt7.png */; };
+		EC93FEE61CAC590F0011ED4E /* instrumentt8.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEDA1CAC590F0011ED4E /* instrumentt8.png */; };
+		EC93FEE71CAC590F0011ED4E /* instrumentt9.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEDB1CAC590F0011ED4E /* instrumentt9.png */; };
+		EC93FEE81CAC590F0011ED4E /* instrumentt10.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEDC1CAC590F0011ED4E /* instrumentt10.png */; };
+		EC93FEE91CAC590F0011ED4E /* instrumentt11.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEDD1CAC590F0011ED4E /* instrumentt11.png */; };
+		EC93FEEA1CAC590F0011ED4E /* instrumentt12.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEDE1CAC590F0011ED4E /* instrumentt12.png */; };
+		EC93FEEE1CAD11CD0011ED4E /* instrumentt15.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEEB1CAD11CD0011ED4E /* instrumentt15.png */; };
+		EC93FEEF1CAD11CD0011ED4E /* instrumentt14.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEEC1CAD11CD0011ED4E /* instrumentt14.png */; };
+		EC93FEF01CAD11CD0011ED4E /* instrumentt13.png in Resources */ = {isa = PBXBuildFile; fileRef = EC93FEED1CAD11CD0011ED4E /* instrumentt13.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC132B841CA90A9800659BF2 /* brododozgo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brododozgo.png; sourceTree = "<group>"; };
+		EC132B861CA90C9100659BF2 /* bomba.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bomba.png; sourceTree = "<group>"; };
+		EC132B881CA90D4B00659BF2 /* kazaljka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kazaljka.png; sourceTree = "<group>"; };
+		EC132B8A1CA91FBD00659BF2 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		EC132B901CA9663000659BF2 /* otok1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok1.png; sourceTree = "<group>"; };
+		EC132B911CA9663000659BF2 /* otok2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok2.png; sourceTree = "<group>"; };
+		EC132B921CA9663000659BF2 /* otok3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok3.png; sourceTree = "<group>"; };
+		EC132B931CA9663000659BF2 /* otok4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok4.png; sourceTree = "<group>"; };
+		EC132B941CA9663000659BF2 /* otok5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok5.png; sourceTree = "<group>"; };
+		EC132B951CA9663000659BF2 /* otok6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otok6.png; sourceTree = "<group>"; };
+		EC132BC21CA9BEE600659BF2 /* zPada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = zPada.mp3; sourceTree = "<group>"; };
+		EC132BC41CA9BF0300659BF2 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		EC1A37261CAD64A700E93328 /* instrumentt21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt21.png; sourceTree = "<group>"; };
+		EC1A37271CAD64A700E93328 /* instrumentt20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt20.png; sourceTree = "<group>"; };
+		EC1A37281CAD64A700E93328 /* instrumentt19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt19.png; sourceTree = "<group>"; };
+		EC1A37291CAD64A700E93328 /* instrumentt18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt18.png; sourceTree = "<group>"; };
+		EC1A372A1CAD64A700E93328 /* instrumentt17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt17.png; sourceTree = "<group>"; };
+		EC1A372B1CAD64A700E93328 /* instrumentt16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt16.png; sourceTree = "<group>"; };
 		EC4DA8261CA8403800CB5351 /* brodicPlovi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = brodicPlovi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC4DA82A1CA8403800CB5351 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EC4DA82C1CA8403800CB5351 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +89,36 @@
 		EC4DA8351CA8403800CB5351 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC4DA8381CA8403800CB5351 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC4DA83A1CA8403800CB5351 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC4DA8401CA8445700CB5351 /* brodicView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = brodicView.h; sourceTree = "<group>"; };
+		EC4DA8411CA8445700CB5351 /* brodicView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = brodicView.m; sourceTree = "<group>"; };
+		EC4DA8431CA84BD600CB5351 /* MyScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyScene.sks; sourceTree = "<group>"; };
+		EC4DA8451CA84F2A00CB5351 /* scena.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scena.h; sourceTree = "<group>"; };
+		EC4DA8461CA84F2A00CB5351 /* scena.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = scena.m; sourceTree = "<group>"; };
+		EC4DA84A1CA853FD00CB5351 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		EC4DA8561CA894F200CB5351 /* crvenaTipka1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crvenaTipka1.png; sourceTree = "<group>"; };
+		EC93FEC41CAC1DE60011ED4E /* kolekcijas.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = kolekcijas.h; sourceTree = "<group>"; };
+		EC93FEC51CAC1E030011ED4E /* kolekcijas.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = kolekcijas.m; sourceTree = "<group>"; };
+		EC93FEC71CAC2DD90011ED4E /* sivaPodloga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sivaPodloga.png; sourceTree = "<group>"; };
+		EC93FEC91CAC34D10011ED4E /* mjestaInstrumenta5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjestaInstrumenta5.png; sourceTree = "<group>"; };
+		EC93FECA1CAC34D10011ED4E /* mjestaInstrumenta4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjestaInstrumenta4.png; sourceTree = "<group>"; };
+		EC93FECB1CAC34D10011ED4E /* mjestaInstrumenta3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjestaInstrumenta3.png; sourceTree = "<group>"; };
+		EC93FECC1CAC34D10011ED4E /* mjestaInstrumenta2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjestaInstrumenta2.png; sourceTree = "<group>"; };
+		EC93FECD1CAC34D10011ED4E /* mjestaInstrumenta1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjestaInstrumenta1.png; sourceTree = "<group>"; };
+		EC93FED31CAC590F0011ED4E /* instrumentt1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt1.png; sourceTree = "<group>"; };
+		EC93FED41CAC590F0011ED4E /* instrumentt2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt2.png; sourceTree = "<group>"; };
+		EC93FED51CAC590F0011ED4E /* instrumentt3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt3.png; sourceTree = "<group>"; };
+		EC93FED61CAC590F0011ED4E /* instrumentt4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt4.png; sourceTree = "<group>"; };
+		EC93FED71CAC590F0011ED4E /* instrumentt5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt5.png; sourceTree = "<group>"; };
+		EC93FED81CAC590F0011ED4E /* instrumentt6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt6.png; sourceTree = "<group>"; };
+		EC93FED91CAC590F0011ED4E /* instrumentt7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt7.png; sourceTree = "<group>"; };
+		EC93FEDA1CAC590F0011ED4E /* instrumentt8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt8.png; sourceTree = "<group>"; };
+		EC93FEDB1CAC590F0011ED4E /* instrumentt9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt9.png; sourceTree = "<group>"; };
+		EC93FEDC1CAC590F0011ED4E /* instrumentt10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt10.png; sourceTree = "<group>"; };
+		EC93FEDD1CAC590F0011ED4E /* instrumentt11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt11.png; sourceTree = "<group>"; };
+		EC93FEDE1CAC590F0011ED4E /* instrumentt12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt12.png; sourceTree = "<group>"; };
+		EC93FEEB1CAD11CD0011ED4E /* instrumentt15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt15.png; sourceTree = "<group>"; };
+		EC93FEEC1CAD11CD0011ED4E /* instrumentt14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt14.png; sourceTree = "<group>"; };
+		EC93FEED1CAD11CD0011ED4E /* instrumentt13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt13.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +126,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC132BC51CA9BF0300659BF2 /* AVFoundation.framework in Frameworks */,
+				EC4DA84B1CA853FD00CB5351 /* SpriteKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +137,8 @@
 		EC4DA81D1CA8403800CB5351 = {
 			isa = PBXGroup;
 			children = (
+				EC132BC41CA9BF0300659BF2 /* AVFoundation.framework */,
+				EC4DA84A1CA853FD00CB5351 /* SpriteKit.framework */,
 				EC4DA8281CA8403800CB5351 /* brodicPlovi */,
 				EC4DA8271CA8403800CB5351 /* Products */,
 			);
@@ -58,11 +155,57 @@
 		EC4DA8281CA8403800CB5351 /* brodicPlovi */ = {
 			isa = PBXGroup;
 			children = (
+				EC93FEC71CAC2DD90011ED4E /* sivaPodloga.png */,
+				EC93FEC91CAC34D10011ED4E /* mjestaInstrumenta5.png */,
+				EC93FECA1CAC34D10011ED4E /* mjestaInstrumenta4.png */,
+				EC93FECB1CAC34D10011ED4E /* mjestaInstrumenta3.png */,
+				EC93FECC1CAC34D10011ED4E /* mjestaInstrumenta2.png */,
+				EC93FECD1CAC34D10011ED4E /* mjestaInstrumenta1.png */,
+				EC93FED31CAC590F0011ED4E /* instrumentt1.png */,
+				EC93FED41CAC590F0011ED4E /* instrumentt2.png */,
+				EC93FED51CAC590F0011ED4E /* instrumentt3.png */,
+				EC93FED61CAC590F0011ED4E /* instrumentt4.png */,
+				EC93FED71CAC590F0011ED4E /* instrumentt5.png */,
+				EC93FED81CAC590F0011ED4E /* instrumentt6.png */,
+				EC93FED91CAC590F0011ED4E /* instrumentt7.png */,
+				EC93FEDA1CAC590F0011ED4E /* instrumentt8.png */,
+				EC93FEDB1CAC590F0011ED4E /* instrumentt9.png */,
+				EC93FEDC1CAC590F0011ED4E /* instrumentt10.png */,
+				EC93FEDD1CAC590F0011ED4E /* instrumentt11.png */,
+				EC93FEDE1CAC590F0011ED4E /* instrumentt12.png */,
+				EC93FEED1CAD11CD0011ED4E /* instrumentt13.png */,
+				EC93FEEC1CAD11CD0011ED4E /* instrumentt14.png */,
+				EC93FEEB1CAD11CD0011ED4E /* instrumentt15.png */,
+				EC1A372B1CAD64A700E93328 /* instrumentt16.png */,
+				EC1A372A1CAD64A700E93328 /* instrumentt17.png */,
+				EC1A37291CAD64A700E93328 /* instrumentt18.png */,
+				EC1A37281CAD64A700E93328 /* instrumentt19.png */,
+				EC1A37271CAD64A700E93328 /* instrumentt20.png */,
+				EC1A37261CAD64A700E93328 /* instrumentt21.png */,
+				EC132BC21CA9BEE600659BF2 /* zPada.mp3 */,
+				EC132B8A1CA91FBD00659BF2 /* spark.png */,
+				EC132B881CA90D4B00659BF2 /* kazaljka.png */,
+				EC132B861CA90C9100659BF2 /* bomba.png */,
+				EC132B841CA90A9800659BF2 /* brododozgo.png */,
+				EC4DA8561CA894F200CB5351 /* crvenaTipka1.png */,
+				EC132B901CA9663000659BF2 /* otok1.png */,
+				EC132B911CA9663000659BF2 /* otok2.png */,
+				EC132B921CA9663000659BF2 /* otok3.png */,
+				EC132B931CA9663000659BF2 /* otok4.png */,
+				EC132B941CA9663000659BF2 /* otok5.png */,
+				EC132B951CA9663000659BF2 /* otok6.png */,
 				EC4DA82C1CA8403800CB5351 /* AppDelegate.h */,
 				EC4DA82D1CA8403800CB5351 /* AppDelegate.m */,
+				EC93FEC41CAC1DE60011ED4E /* kolekcijas.h */,
+				EC93FEC51CAC1E030011ED4E /* kolekcijas.m */,
+				EC4DA8451CA84F2A00CB5351 /* scena.h */,
+				EC4DA8461CA84F2A00CB5351 /* scena.m */,
+				EC4DA8401CA8445700CB5351 /* brodicView.h */,
+				EC4DA8411CA8445700CB5351 /* brodicView.m */,
 				EC4DA82F1CA8403800CB5351 /* ViewController.h */,
 				EC4DA8301CA8403800CB5351 /* ViewController.m */,
 				EC4DA8321CA8403800CB5351 /* Main.storyboard */,
+				EC4DA8431CA84BD600CB5351 /* MyScene.sks */,
 				EC4DA8351CA8403800CB5351 /* Assets.xcassets */,
 				EC4DA8371CA8403800CB5351 /* LaunchScreen.storyboard */,
 				EC4DA83A1CA8403800CB5351 /* Info.plist */,
@@ -136,8 +279,48 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC132B891CA90D4B00659BF2 /* kazaljka.png in Resources */,
+				EC132B991CA9663000659BF2 /* otok4.png in Resources */,
+				EC93FEEA1CAC590F0011ED4E /* instrumentt12.png in Resources */,
+				EC93FEE41CAC590F0011ED4E /* instrumentt6.png in Resources */,
+				EC93FED01CAC34D10011ED4E /* mjestaInstrumenta3.png in Resources */,
+				EC93FEC81CAC2DD90011ED4E /* sivaPodloga.png in Resources */,
+				EC93FEE11CAC590F0011ED4E /* instrumentt3.png in Resources */,
 				EC4DA8391CA8403800CB5351 /* LaunchScreen.storyboard in Resources */,
+				EC132B971CA9663000659BF2 /* otok2.png in Resources */,
+				EC132B9B1CA9663000659BF2 /* otok6.png in Resources */,
+				EC93FED11CAC34D10011ED4E /* mjestaInstrumenta2.png in Resources */,
+				EC132B8B1CA91FBD00659BF2 /* spark.png in Resources */,
+				EC132B981CA9663000659BF2 /* otok3.png in Resources */,
+				EC93FEE71CAC590F0011ED4E /* instrumentt9.png in Resources */,
+				EC132BC31CA9BEE600659BF2 /* zPada.mp3 in Resources */,
+				EC93FEE91CAC590F0011ED4E /* instrumentt11.png in Resources */,
+				EC132B9A1CA9663000659BF2 /* otok5.png in Resources */,
+				EC93FED21CAC34D10011ED4E /* mjestaInstrumenta1.png in Resources */,
+				EC93FECF1CAC34D10011ED4E /* mjestaInstrumenta4.png in Resources */,
+				EC93FEE31CAC590F0011ED4E /* instrumentt5.png in Resources */,
+				EC1A372D1CAD64A700E93328 /* instrumentt20.png in Resources */,
+				EC93FEE81CAC590F0011ED4E /* instrumentt10.png in Resources */,
+				EC93FECE1CAC34D10011ED4E /* mjestaInstrumenta5.png in Resources */,
+				EC1A37311CAD64A700E93328 /* instrumentt16.png in Resources */,
+				EC132B851CA90A9800659BF2 /* brododozgo.png in Resources */,
+				EC93FEEE1CAD11CD0011ED4E /* instrumentt15.png in Resources */,
+				EC132B961CA9663000659BF2 /* otok1.png in Resources */,
+				EC4DA8571CA894F200CB5351 /* crvenaTipka1.png in Resources */,
+				EC93FEEF1CAD11CD0011ED4E /* instrumentt14.png in Resources */,
+				EC93FEE01CAC590F0011ED4E /* instrumentt2.png in Resources */,
+				EC1A37301CAD64A700E93328 /* instrumentt17.png in Resources */,
+				EC93FEE21CAC590F0011ED4E /* instrumentt4.png in Resources */,
+				EC93FEDF1CAC590F0011ED4E /* instrumentt1.png in Resources */,
+				EC93FEE61CAC590F0011ED4E /* instrumentt8.png in Resources */,
+				EC1A372F1CAD64A700E93328 /* instrumentt18.png in Resources */,
 				EC4DA8361CA8403800CB5351 /* Assets.xcassets in Resources */,
+				EC93FEE51CAC590F0011ED4E /* instrumentt7.png in Resources */,
+				EC93FEF01CAD11CD0011ED4E /* instrumentt13.png in Resources */,
+				EC1A372E1CAD64A700E93328 /* instrumentt19.png in Resources */,
+				EC1A372C1CAD64A700E93328 /* instrumentt21.png in Resources */,
+				EC132B871CA90C9100659BF2 /* bomba.png in Resources */,
+				EC4DA8441CA84BD600CB5351 /* MyScene.sks in Resources */,
 				EC4DA8341CA8403800CB5351 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,8 +333,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC4DA8311CA8403800CB5351 /* ViewController.m in Sources */,
+				EC4DA8421CA8445700CB5351 /* brodicView.m in Sources */,
+				EC4DA8471CA84F2A00CB5351 /* scena.m in Sources */,
 				EC4DA82E1CA8403800CB5351 /* AppDelegate.m in Sources */,
 				EC4DA82B1CA8403800CB5351 /* main.m in Sources */,
+				EC93FEC61CAC1E030011ED4E /* kolekcijas.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +486,7 @@
 				EC4DA83F1CA8403800CB5351 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
