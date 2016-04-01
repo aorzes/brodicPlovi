@@ -25,6 +25,18 @@
 		EC1A372F1CAD64A700E93328 /* instrumentt18.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37291CAD64A700E93328 /* instrumentt18.png */; };
 		EC1A37301CAD64A700E93328 /* instrumentt17.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A372A1CAD64A700E93328 /* instrumentt17.png */; };
 		EC1A37311CAD64A700E93328 /* instrumentt16.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A372B1CAD64A700E93328 /* instrumentt16.png */; };
+		EC1A37331CADAE8C00E93328 /* more3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37321CADAE8C00E93328 /* more3.png */; };
+		EC1A37351CADB84200E93328 /* left.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37341CADB84200E93328 /* left.png */; };
+		EC1A37371CADB84A00E93328 /* right.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37361CADB84A00E93328 /* right.png */; };
+		EC1A373A1CADB85500E93328 /* off.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37381CADB85500E93328 /* off.png */; };
+		EC1A373B1CADB85500E93328 /* on.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37391CADB85500E93328 /* on.png */; };
+		EC1A373E1CADBA9D00E93328 /* zelenaTipka.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A373C1CADBA9D00E93328 /* zelenaTipka.png */; };
+		EC1A373F1CADBA9D00E93328 /* zelenaTipkaS.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A373D1CADBA9D00E93328 /* zelenaTipkaS.png */; };
+		EC1A37421CADBAAC00E93328 /* zutaTipka.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37401CADBAAC00E93328 /* zutaTipka.png */; };
+		EC1A37431CADBAAC00E93328 /* zutaTipkaS.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37411CADBAAC00E93328 /* zutaTipkaS.png */; };
+		EC1A37461CADBAC100E93328 /* crvenaTipka.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37441CADBAC100E93328 /* crvenaTipka.png */; };
+		EC1A37471CADBAC100E93328 /* crvenaTipkaS.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37451CADBAC100E93328 /* crvenaTipkaS.png */; };
+		EC1A37491CADC17000E93328 /* collection.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1A37481CADC17000E93328 /* collection.png */; };
 		EC4DA82B1CA8403800CB5351 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82A1CA8403800CB5351 /* main.m */; };
 		EC4DA82E1CA8403800CB5351 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA82D1CA8403800CB5351 /* AppDelegate.m */; };
 		EC4DA8311CA8403800CB5351 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC4DA8301CA8403800CB5351 /* ViewController.m */; };
@@ -79,6 +91,18 @@
 		EC1A37291CAD64A700E93328 /* instrumentt18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt18.png; sourceTree = "<group>"; };
 		EC1A372A1CAD64A700E93328 /* instrumentt17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt17.png; sourceTree = "<group>"; };
 		EC1A372B1CAD64A700E93328 /* instrumentt16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instrumentt16.png; sourceTree = "<group>"; };
+		EC1A37321CADAE8C00E93328 /* more3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = more3.png; sourceTree = "<group>"; };
+		EC1A37341CADB84200E93328 /* left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = left.png; sourceTree = "<group>"; };
+		EC1A37361CADB84A00E93328 /* right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = right.png; sourceTree = "<group>"; };
+		EC1A37381CADB85500E93328 /* off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = off.png; sourceTree = "<group>"; };
+		EC1A37391CADB85500E93328 /* on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = on.png; sourceTree = "<group>"; };
+		EC1A373C1CADBA9D00E93328 /* zelenaTipka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zelenaTipka.png; sourceTree = "<group>"; };
+		EC1A373D1CADBA9D00E93328 /* zelenaTipkaS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zelenaTipkaS.png; sourceTree = "<group>"; };
+		EC1A37401CADBAAC00E93328 /* zutaTipka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zutaTipka.png; sourceTree = "<group>"; };
+		EC1A37411CADBAAC00E93328 /* zutaTipkaS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zutaTipkaS.png; sourceTree = "<group>"; };
+		EC1A37441CADBAC100E93328 /* crvenaTipka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crvenaTipka.png; sourceTree = "<group>"; };
+		EC1A37451CADBAC100E93328 /* crvenaTipkaS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crvenaTipkaS.png; sourceTree = "<group>"; };
+		EC1A37481CADC17000E93328 /* collection.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = collection.png; sourceTree = "<group>"; };
 		EC4DA8261CA8403800CB5351 /* brodicPlovi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = brodicPlovi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC4DA82A1CA8403800CB5351 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EC4DA82C1CA8403800CB5351 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -155,6 +179,18 @@
 		EC4DA8281CA8403800CB5351 /* brodicPlovi */ = {
 			isa = PBXGroup;
 			children = (
+				EC1A37481CADC17000E93328 /* collection.png */,
+				EC1A373C1CADBA9D00E93328 /* zelenaTipka.png */,
+				EC1A373D1CADBA9D00E93328 /* zelenaTipkaS.png */,
+				EC1A37401CADBAAC00E93328 /* zutaTipka.png */,
+				EC1A37411CADBAAC00E93328 /* zutaTipkaS.png */,
+				EC1A37441CADBAC100E93328 /* crvenaTipka.png */,
+				EC1A37451CADBAC100E93328 /* crvenaTipkaS.png */,
+				EC1A37341CADB84200E93328 /* left.png */,
+				EC1A37361CADB84A00E93328 /* right.png */,
+				EC1A37381CADB85500E93328 /* off.png */,
+				EC1A37391CADB85500E93328 /* on.png */,
+				EC1A37321CADAE8C00E93328 /* more3.png */,
 				EC93FEC71CAC2DD90011ED4E /* sivaPodloga.png */,
 				EC93FEC91CAC34D10011ED4E /* mjestaInstrumenta5.png */,
 				EC93FECA1CAC34D10011ED4E /* mjestaInstrumenta4.png */,
@@ -280,15 +316,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC132B891CA90D4B00659BF2 /* kazaljka.png in Resources */,
+				EC1A37461CADBAC100E93328 /* crvenaTipka.png in Resources */,
 				EC132B991CA9663000659BF2 /* otok4.png in Resources */,
 				EC93FEEA1CAC590F0011ED4E /* instrumentt12.png in Resources */,
 				EC93FEE41CAC590F0011ED4E /* instrumentt6.png in Resources */,
+				EC1A373A1CADB85500E93328 /* off.png in Resources */,
 				EC93FED01CAC34D10011ED4E /* mjestaInstrumenta3.png in Resources */,
 				EC93FEC81CAC2DD90011ED4E /* sivaPodloga.png in Resources */,
+				EC1A37331CADAE8C00E93328 /* more3.png in Resources */,
 				EC93FEE11CAC590F0011ED4E /* instrumentt3.png in Resources */,
 				EC4DA8391CA8403800CB5351 /* LaunchScreen.storyboard in Resources */,
 				EC132B971CA9663000659BF2 /* otok2.png in Resources */,
 				EC132B9B1CA9663000659BF2 /* otok6.png in Resources */,
+				EC1A37351CADB84200E93328 /* left.png in Resources */,
 				EC93FED11CAC34D10011ED4E /* mjestaInstrumenta2.png in Resources */,
 				EC132B8B1CA91FBD00659BF2 /* spark.png in Resources */,
 				EC132B981CA9663000659BF2 /* otok3.png in Resources */,
@@ -297,8 +337,10 @@
 				EC93FEE91CAC590F0011ED4E /* instrumentt11.png in Resources */,
 				EC132B9A1CA9663000659BF2 /* otok5.png in Resources */,
 				EC93FED21CAC34D10011ED4E /* mjestaInstrumenta1.png in Resources */,
+				EC1A37371CADB84A00E93328 /* right.png in Resources */,
 				EC93FECF1CAC34D10011ED4E /* mjestaInstrumenta4.png in Resources */,
 				EC93FEE31CAC590F0011ED4E /* instrumentt5.png in Resources */,
+				EC1A37421CADBAAC00E93328 /* zutaTipka.png in Resources */,
 				EC1A372D1CAD64A700E93328 /* instrumentt20.png in Resources */,
 				EC93FEE81CAC590F0011ED4E /* instrumentt10.png in Resources */,
 				EC93FECE1CAC34D10011ED4E /* mjestaInstrumenta5.png in Resources */,
@@ -307,15 +349,21 @@
 				EC93FEEE1CAD11CD0011ED4E /* instrumentt15.png in Resources */,
 				EC132B961CA9663000659BF2 /* otok1.png in Resources */,
 				EC4DA8571CA894F200CB5351 /* crvenaTipka1.png in Resources */,
+				EC1A37471CADBAC100E93328 /* crvenaTipkaS.png in Resources */,
+				EC1A373E1CADBA9D00E93328 /* zelenaTipka.png in Resources */,
 				EC93FEEF1CAD11CD0011ED4E /* instrumentt14.png in Resources */,
 				EC93FEE01CAC590F0011ED4E /* instrumentt2.png in Resources */,
 				EC1A37301CAD64A700E93328 /* instrumentt17.png in Resources */,
+				EC1A373F1CADBA9D00E93328 /* zelenaTipkaS.png in Resources */,
+				EC1A37491CADC17000E93328 /* collection.png in Resources */,
 				EC93FEE21CAC590F0011ED4E /* instrumentt4.png in Resources */,
 				EC93FEDF1CAC590F0011ED4E /* instrumentt1.png in Resources */,
 				EC93FEE61CAC590F0011ED4E /* instrumentt8.png in Resources */,
+				EC1A373B1CADB85500E93328 /* on.png in Resources */,
 				EC1A372F1CAD64A700E93328 /* instrumentt18.png in Resources */,
 				EC4DA8361CA8403800CB5351 /* Assets.xcassets in Resources */,
 				EC93FEE51CAC590F0011ED4E /* instrumentt7.png in Resources */,
+				EC1A37431CADBAAC00E93328 /* zutaTipkaS.png in Resources */,
 				EC93FEF01CAD11CD0011ED4E /* instrumentt13.png in Resources */,
 				EC1A372E1CAD64A700E93328 /* instrumentt19.png in Resources */,
 				EC1A372C1CAD64A700E93328 /* instrumentt21.png in Resources */,
